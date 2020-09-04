@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Part1
+comment0.text=\n\ Write\ a\ description\ of\ Part1\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=dna
+comment1.target=edu.duke.StorageResource\ getAllGenes(java.lang.String)
+comment2.params=dna
+comment2.target=void\ printAllGenes(java.lang.String)
+comment3.params=dnaOrignal\ index
+comment3.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment4.params=dna\ startIndex\ stopCodon
+comment4.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment4.text=This\ method\ returns\ the\ index\ of\ the\ first\ occurrence\ of\ stopCodon\ that\ appears\ \n\ \ \ \ past\ startIndex\ and\ is\ a\ multiple\ of\ 3\ away\ from\ startIndex.\ If\ there\ is\ no\ such\ntopCodon,\ this\ method\ returns\ the\ length\ of\ the\ dna\ strand.
+comment5.params=dna
+comment5.target=double\ cgRatio(java.lang.String)
+comment6.params=dna
+comment6.target=int\ countCTG(java.lang.String)
+comment7.params=sr
+comment7.target=void\ processGenes(edu.duke.StorageResource)
+comment8.params=
+comment8.target=void\ testProcessGenes()
+numComments=9

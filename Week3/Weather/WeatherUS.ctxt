@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WeatherUS
+comment0.text=\n\ Write\ a\ description\ of\ WeatherUS\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=parser
+comment1.target=org.apache.commons.csv.CSVRecord\ hottestHourInFile(org.apache.commons.csv.CSVParser)
+comment2.params=reclargest\ rec
+comment2.target=org.apache.commons.csv.CSVRecord\ getLargestofTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment3.params=
+comment3.target=void\ testerfile()
+comment4.params=
+comment4.target=void\ testerDirectory()
+numComments=5
